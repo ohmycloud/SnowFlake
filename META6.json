@@ -1,0 +1,19 @@
+{
+  "name": "SnowFlake",
+  "description": "Snowflake for Raku!",
+  "version": "0.1",
+  "perl": "6.*",
+  "authors": [
+    "ohmycloudy@gmail.com"
+  ],
+  "auth": "ohmycloudy@gmail.com",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [],
+  "provides": {
+    "SnowFlake": "lib/SnowFlake.rakumod"
+  },
+  "resources": [],
+  "license": "MIT",
+  "source-url": "https://github.com/ohmycloud/SnowFlake.git"
+}
