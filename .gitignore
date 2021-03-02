@@ -6,3 +6,4 @@
 lib/.precomp
 .DS_Store
 *.iml
+deploy.sh
